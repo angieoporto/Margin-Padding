@@ -1,0 +1,26 @@
+.uno{
+	height: 250px;
+	width: 225px;
+
+border:2px solid #FD8A09;
+padding: 10px;
+box-sizing:border-box;
+
+}
+.segundo{
+	height: 250px;
+	width: 225px;
+padding: 10px;
+border:2px solid #FD8A09;
+box-sizing:border-box;
+
+
+}
+.tercero{
+	height: 250px;
+	width: 225px;
+padding: 10px;
+border:2px solid #FD8A09;
+box-sizing:border-box;
+	
+}
